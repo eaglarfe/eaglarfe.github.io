@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eaglarfe.github.io/sitemap
+Sitemap: https://eaglarfe.github.io/app/sitemap
+Sitemap: https://eaglarfe.github.io/assets/sitemap
+Sitemap: https://eaglarfe.github.io/css/sitemap
+Sitemap: https://eaglarfe.github.io/includes/sitemap
+Sitemap: https://eaglarfe.github.io/item/sitemap
+Sitemap: https://eaglarfe.github.io/src/sitemap
